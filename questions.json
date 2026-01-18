@@ -1,0 +1,576 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "Пятница вечер. Где ты, воин? 🌃",
+      "answers": [
+        {
+          "text": "На вписке с пацанами, бухаю 🍺",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 1, "botan": 0, "popular": 3, "tvorec": 0, "kachok": 0, "mizantrop": 0, "meme": 1, "meloman": 0}
+        },
+        {
+          "text": "Дома катаю в доту 5х5, изи катка 🎮",
+          "scores": {"altushka": 0, "zadrot": 4, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 0, "kachok": 0, "mizantrop": 1, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "На концерте андеграунд группы 🎸",
+          "scores": {"altushka": 4, "zadrot": 0, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 0, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 2}
+        },
+        {
+          "text": "В зале пампю бицуху 💪",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 0, "kachok": 4, "mizantrop": 0, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Дома, все люди бесят 🌚",
+          "scores": {"altushka": 1, "zadrot": 0, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 0, "kachok": 0, "mizantrop": 4, "meme": 0, "meloman": 0}
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Какая музыка в наушниках? 🎧",
+      "answers": [
+        {
+          "text": "Ghostemane, $uicideboy$ 😈",
+          "scores": {"altushka": 4, "zadrot": 0, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 0, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 1}
+        },
+        {
+          "text": "Саундтреки из игр 🎮",
+          "scores": {"altushka": 0, "zadrot": 3, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 0, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 1}
+        },
+        {
+          "text": "Что в топе ТикТока ✨",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 4, "botan": 0, "popular": 0, "tvorec": 0, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Мотивирующий рэп 💪",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 0, "botan": 0, "popular": 1, "tvorec": 0, "kachok": 3, "mizantrop": 0, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Андеграунд инди 🎵",
+          "scores": {"altushka": 1, "zadrot": 0, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 2, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 4}
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Твой гардероб это: 👕",
+      "answers": [
+        {
+          "text": "Весь черный, цепи, кольца 😈",
+          "scores": {"altushka": 4, "zadrot": 0, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 0, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Удобно главное, похер 🎮",
+          "scores": {"altushka": 0, "zadrot": 2, "tiktoker": 0, "botan": 1, "popular": 0, "tvorec": 0, "kachok": 0, "mizantrop": 2, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Модно и стильно ✨",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 3, "botan": 0, "popular": 2, "tvorec": 0, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Спортивная форма 24/7 💪",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 0, "kachok": 4, "mizantrop": 0, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Креативно и уникально 🎨",
+          "scores": {"altushka": 1, "zadrot": 0, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 4, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 0}
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Соцсети для тебя: 📱",
+      "answers": [
+        {
+          "text": "Только музыка и мрак 😈",
+          "scores": {"altushka": 3, "zadrot": 0, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 0, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 2}
+        },
+        {
+          "text": "Игровые клипы и стримы 🎮",
+          "scores": {"altushka": 0, "zadrot": 4, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 0, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Сторисы 24/7, хайп ✨",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 4, "botan": 0, "popular": 2, "tvorec": 0, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Прогресс в зале 💪",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 0, "kachok": 3, "mizantrop": 0, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Почти не сижу 🌚",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 0, "botan": 2, "popular": 0, "tvorec": 0, "kachok": 0, "mizantrop": 4, "meme": 0, "meloman": 0}
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Твоя суперсила в идеале: 🦸",
+      "answers": [
+        {
+          "text": "Читать мысли 🧠",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 0, "botan": 3, "popular": 0, "tvorec": 0, "kachok": 0, "mizantrop": 2, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Телепортация 🌍",
+          "scores": {"altushka": 0, "zadrot": 2, "tiktoker": 0, "botan": 0, "popular": 1, "tvorec": 0, "kachok": 0, "mizantrop": 2, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Невидимость 👻",
+          "scores": {"altushka": 1, "zadrot": 0, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 0, "kachok": 0, "mizantrop": 3, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Суперсила 💪",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 0, "kachok": 4, "mizantrop": 0, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Управление временем ⏰",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 1, "botan": 3, "popular": 2, "tvorec": 0, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 0}
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "В школе/универе ты: 🎓",
+      "answers": [
+        {
+          "text": "На галерке с музоном 🎧",
+          "scores": {"altushka": 3, "zadrot": 0, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 0, "kachok": 0, "mizantrop": 2, "meme": 0, "meloman": 1}
+        },
+        {
+          "text": "Играю под партой 🎮",
+          "scores": {"altushka": 0, "zadrot": 4, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 0, "kachok": 0, "mizantrop": 0, "meme": 1, "meloman": 0}
+        },
+        {
+          "text": "Общаюсь со всеми 😎",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 1, "botan": 0, "popular": 4, "tvorec": 0, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Активно участвую 🧠",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 0, "botan": 4, "popular": 0, "tvorec": 0, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Рисую в тетради 🎨",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 4, "kachok": 0, "mizantrop": 1, "meme": 0, "meloman": 0}
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Идеальные выходные: 🌴",
+      "answers": [
+        {
+          "text": "Концерт, мош-пит 🎸",
+          "scores": {"altushka": 3, "zadrot": 0, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 0, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 3}
+        },
+        {
+          "text": "ЛАН-вписка 48 часов 🎮",
+          "scores": {"altushka": 0, "zadrot": 4, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 0, "kachok": 0, "mizantrop": 0, "meme": 1, "meloman": 0}
+        },
+        {
+          "text": "Прогулка, фоточки 📸",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 3, "botan": 0, "popular": 2, "tvorec": 0, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Поход в горы 🏔️",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 1, "kachok": 3, "mizantrop": 0, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Дома с книгой 📚",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 0, "botan": 2, "popular": 0, "tvorec": 0, "kachok": 0, "mizantrop": 4, "meme": 0, "meloman": 0}
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Твой юмор это: 😂",
+      "answers": [
+        {
+          "text": "Черный и саркастичный 😈",
+          "scores": {"altushka": 3, "zadrot": 0, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 0, "kachok": 0, "mizantrop": 2, "meme": 1, "meloman": 0}
+        },
+        {
+          "text": "Мемы из игр 🎮",
+          "scores": {"altushka": 0, "zadrot": 3, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 0, "kachok": 0, "mizantrop": 0, "meme": 3, "meloman": 0}
+        },
+        {
+          "text": "Легкий и позитивный ✨",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 2, "botan": 0, "popular": 3, "tvorec": 0, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Умный юмор 🧠",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 0, "botan": 4, "popular": 0, "tvorec": 1, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Абсурдный wtf 🤡",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 2, "kachok": 0, "mizantrop": 0, "meme": 4, "meloman": 0}
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Отношение к учебе: 📖",
+      "answers": [
+        {
+          "text": "Зачем мне это 😈",
+          "scores": {"altushka": 2, "zadrot": 0, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 0, "kachok": 0, "mizantrop": 1, "meme": 1, "meloman": 0}
+        },
+        {
+          "text": "Минимум усилий 🎮",
+          "scores": {"altushka": 0, "zadrot": 3, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 0, "kachok": 0, "mizantrop": 2, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Нормально, без фанатизма ✨",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 2, "botan": 0, "popular": 3, "tvorec": 0, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Отличник 5.0 🧠",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 0, "botan": 4, "popular": 0, "tvorec": 0, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Только то что интересно 🎨",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 0, "botan": 1, "popular": 0, "tvorec": 3, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 2}
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Сколько близких друзей? 👥",
+      "answers": [
+        {
+          "text": "0-2, хватит 🌚",
+          "scores": {"altushka": 2, "zadrot": 0, "tiktoker": 0, "botan": 1, "popular": 0, "tvorec": 0, "kachok": 0, "mizantrop": 4, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "3-5, качество важнее 🎮",
+          "scores": {"altushka": 0, "zadrot": 2, "tiktoker": 0, "botan": 2, "popular": 0, "tvorec": 3, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "10+, знаю всех 😎",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 2, "botan": 0, "popular": 4, "tvorec": 0, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Команда - мои братья 💪",
+          "scores": {"altushka": 0, "zadrot": 2, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 0, "kachok": 3, "mizantrop": 0, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Друзья? Кто это? 🌚",
+          "scores": {"altushka": 1, "zadrot": 0, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 0, "kachok": 0, "mizantrop": 4, "meme": 0, "meloman": 0}
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Когда грустно ты: 😔",
+      "answers": [
+        {
+          "text": "Депрессивная музыка 😈",
+          "scores": {"altushka": 4, "zadrot": 0, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 0, "kachok": 0, "mizantrop": 1, "meme": 0, "meloman": 2}
+        },
+        {
+          "text": "Катаю в игры 🎮",
+          "scores": {"altushka": 0, "zadrot": 4, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 0, "kachok": 0, "mizantrop": 0, "meme": 1, "meloman": 0}
+        },
+        {
+          "text": "Общаюсь с друзьями 😎",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 1, "botan": 0, "popular": 4, "tvorec": 0, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Иду в зал 💪",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 0, "kachok": 4, "mizantrop": 0, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Творю 🎨",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 4, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 1}
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Твое отношение к спорту: ⚽",
+      "answers": [
+        {
+          "text": "Не мое 😈",
+          "scores": {"altushka": 2, "zadrot": 0, "tiktoker": 0, "botan": 1, "popular": 0, "tvorec": 0, "kachok": 0, "mizantrop": 2, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Киберспорт считается? 🎮",
+          "scores": {"altushka": 0, "zadrot": 4, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 0, "kachok": 0, "mizantrop": 0, "meme": 1, "meloman": 0}
+        },
+        {
+          "text": "Иногда для фото ✨",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 3, "botan": 0, "popular": 2, "tvorec": 0, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Это моя жизнь 💪",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 0, "kachok": 4, "mizantrop": 0, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Иногда, для здоровья 🧠",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 0, "botan": 2, "popular": 0, "tvorec": 1, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 1}
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Что посмотреть? 🎬",
+      "answers": [
+        {
+          "text": "Артхаус, психоделика 😈",
+          "scores": {"altushka": 3, "zadrot": 0, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 3, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Аниме про гейминг 🎮",
+          "scores": {"altushka": 0, "zadrot": 4, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 0, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 1}
+        },
+        {
+          "text": "Что в трендах ✨",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 4, "botan": 0, "popular": 2, "tvorec": 0, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Документалки, научпоп 🧠",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 0, "botan": 4, "popular": 0, "tvorec": 1, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Комедии и мемы 🤡",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 0, "botan": 0, "popular": 1, "tvorec": 0, "kachok": 0, "mizantrop": 0, "meme": 4, "meloman": 0}
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Утро начинается с: ☀️",
+      "answers": [
+        {
+          "text": "Музыка в наушниках 🎧",
+          "scores": {"altushka": 1, "zadrot": 0, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 0, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 4}
+        },
+        {
+          "text": "Проверить игру 🎮",
+          "scores": {"altushka": 0, "zadrot": 4, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 0, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Проверить соцсети ✨",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 4, "botan": 0, "popular": 2, "tvorec": 0, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Тренировка 💪",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 0, "kachok": 4, "mizantrop": 0, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Еще 5 минут... 😴",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 0, "kachok": 0, "mizantrop": 3, "meme": 2, "meloman": 0}
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "Что важнее всего? 🎯",
+      "answers": [
+        {
+          "text": "Быть собой 😈",
+          "scores": {"altushka": 4, "zadrot": 0, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 2, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Достичь топ ранга 🎮",
+          "scores": {"altushka": 0, "zadrot": 3, "tiktoker": 0, "botan": 1, "popular": 0, "tvorec": 0, "kachok": 2, "mizantrop": 0, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Быть популярным 😎",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 2, "botan": 0, "popular": 4, "tvorec": 0, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Знания и развитие 🧠",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 0, "botan": 4, "popular": 0, "tvorec": 1, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Покой, без стресса 🌚",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 0, "kachok": 0, "mizantrop": 4, "meme": 0, "meloman": 1}
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "Любимая еда: 🍔",
+      "answers": [
+        {
+          "text": "Экзотика, необычное 🎨",
+          "scores": {"altushka": 2, "zadrot": 0, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 3, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Пицца/бургеры 🎮",
+          "scores": {"altushka": 0, "zadrot": 3, "tiktoker": 0, "botan": 0, "popular": 2, "tvorec": 0, "kachok": 0, "mizantrop": 0, "meme": 1, "meloman": 0}
+        },
+        {
+          "text": "Эстетичная еда ✨",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 4, "botan": 0, "popular": 1, "tvorec": 0, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Белок, белок, белок 💪",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 0, "kachok": 4, "mizantrop": 0, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Похер, лишь бы поесть 🌚",
+          "scores": {"altushka": 0, "zadrot": 2, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 0, "kachok": 0, "mizantrop": 2, "meme": 1, "meloman": 0}
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "Отношение к моде: 👔",
+      "answers": [
+        {
+          "text": "Dark/грандж стиль 😈",
+          "scores": {"altushka": 4, "zadrot": 0, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 0, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 1}
+        },
+        {
+          "text": "Похер, удобно главное 🎮",
+          "scores": {"altushka": 0, "zadrot": 3, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 0, "kachok": 0, "mizantrop": 3, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Следую трендам ✨",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 4, "botan": 0, "popular": 2, "tvorec": 0, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Спортивный стиль 💪",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 0, "kachok": 3, "mizantrop": 0, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Свой уникальный стиль 🎨",
+          "scores": {"altushka": 1, "zadrot": 0, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 4, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 0}
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "text": "Любимое время суток: 🌅",
+      "answers": [
+        {
+          "text": "Ночь, все спят 🌙",
+          "scores": {"altushka": 3, "zadrot": 3, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 0, "kachok": 0, "mizantrop": 2, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "День, движ 😎",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 2, "botan": 0, "popular": 3, "tvorec": 0, "kachok": 1, "mizantrop": 0, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Утро, новый день ☀️",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 0, "botan": 3, "popular": 0, "tvorec": 0, "kachok": 2, "mizantrop": 0, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Вечер, закаты 🌆",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 3, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 2}
+        },
+        {
+          "text": "Похер какое 🌚",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 0, "kachok": 0, "mizantrop": 2, "meme": 2, "meloman": 0}
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "text": "Что раздражает? 😤",
+      "answers": [
+        {
+          "text": "Фейковые люди 😈",
+          "scores": {"altushka": 3, "zadrot": 0, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 0, "kachok": 0, "mizantrop": 3, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Раки в тиме 🎮",
+          "scores": {"altushka": 0, "zadrot": 4, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 0, "kachok": 0, "mizantrop": 0, "meme": 1, "meloman": 0}
+        },
+        {
+          "text": "Мало лайков ✨",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 4, "botan": 0, "popular": 1, "tvorec": 0, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Глупость 🧠",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 0, "botan": 4, "popular": 0, "tvorec": 1, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Люди вообще 🌚",
+          "scores": {"altushka": 1, "zadrot": 0, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 0, "kachok": 0, "mizantrop": 4, "meme": 0, "meloman": 0}
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "text": "Через 10 лет ты: 🔮",
+      "answers": [
+        {
+          "text": "Художник/музыкант 🎨",
+          "scores": {"altushka": 2, "zadrot": 0, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 4, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 2}
+        },
+        {
+          "text": "Про-геймер/стример 🎮",
+          "scores": {"altushka": 0, "zadrot": 4, "tiktoker": 1, "botan": 0, "popular": 0, "tvorec": 0, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Блогер/инфлюенсер ✨",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 4, "botan": 0, "popular": 2, "tvorec": 0, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Ученый/профессор 🧠",
+          "scores": {"altushka": 0, "zadrot": 0, "tiktoker": 0, "botan": 4, "popular": 0, "tvorec": 0, "kachok": 0, "mizantrop": 0, "meme": 0, "meloman": 0}
+        },
+        {
+          "text": "Хз, как-нибудь 🌚",
+          "scores": {"altushka": 0, "zadrot": 1, "tiktoker": 0, "botan": 0, "popular": 0, "tvorec": 0, "kachok": 0, "mizantrop": 2, "meme": 3, "meloman": 0}
+        }
+      ]
+    }
+  ],
+  "archetypes": {
+    "altushka": {
+      "emoji": "😈",
+      "name": "АЛЬТУШКА",
+      "description": "Весь в черном, цепи звенят, родители в шоке. Ghostemane 24/7, ты не как все и гордишься этим. Депрессия - это эстетика, а не диагноз. Девиз: \"Я слишком темный для этого мира\" 🖤"
+    },
+    "zadrot": {
+      "emoji": "🎮",
+      "name": "ЗАДРОТ",
+      "description": "5000 часов в доте? Разминка. Знаешь все баги, все мета-пики, все читы. Друзья? Зачем, есть тимейты в войсе. Твой навык: 300 APM и микроконтроль бога. \"Еще катку\" - и так до утра. GG WP!"
+    },
+    "tiktoker": {
+      "emoji": "✨",
+      "name": "ТИКТОКЕР",
+      "description": "24/7 в телефоне, знаешь все тренды до того как они стали трендами. Экранное время 12 часов? Норм. Жизнь в лайках и просмотрах. Звезда соцсетей... или думаешь что звезда."
+    },
+    "botan": {
+      "emoji": "🧠",
+      "name": "БОТАНИЩЕ",
+      "description": "5.0 средний балл, знаешь все, читал все, понял все. Но друзей ноль, слишком умный для смертных. Будущее: бюджет в топ вузе и одиночество. Мозги есть, социальных навыков нет."
+    },
+    "popular": {
+      "emoji": "😎",
+      "name": "ПОПУЛЯРНЫЙ",
+      "description": "Все знают твое имя, куча друзей... но все поверхностные. Центр тусовки, душа компании, но внутри пустота. Популярность ≠ счастье, но ты узнаешь это позже."
+    },
+    "tvorec": {
+      "emoji": "🎨",
+      "name": "ТВОРЕЦ",
+      "description": "Живешь в своем мире, который никто не понимает. Рисуешь, пишешь, создаешь уникальное. \"Непонятый гений\" - это про тебя. Может ты талант, а может просто странный."
+    },
+    "kachok": {
+      "emoji": "💪",
+      "name": "КАЧОК",
+      "description": "Зал - храм, тело - инструмент, белок - религия. Знаешь все упражнения, все добавки, все сплиты. IQ = вес штанги, но бицуха 45см компенсирует. No pain no gain!"
+    },
+    "mizantrop": {
+      "emoji": "🌚",
+      "name": "МИЗАНТРОП",
+      "description": "Люди = боль. Социум = ад. Интроверсия 1000 lvl. Ты не социофоб, просто все реально бесят. Идеальный день: никто не пишет, не звонит, все оставили в покое. Одиночество - твоя сила."
+    },
+    "meme": {
+      "emoji": "🤡",
+      "name": "МЕМНЫЙ БОГ",
+      "description": "Вся жизнь - один большой мем. Шутишь всегда, даже когда грустно (особенно когда грустно). Юмор - защита от реальности. Снаружи ржака, внутри слезы. Поднимаешь настроение всем кроме себя."
+    },
+    "meloman": {
+      "emoji": "🎧",
+      "name": "МЕЛОМАН",
+      "description": "Музыка - не хобби, а образ жизни. 10000 треков в плейлисте, наушники вросли в уши. Знаешь все жанры, всех исполнителей, все альбомы. Без музыки не существуешь. Music is life."
+    }
+  }
+}
