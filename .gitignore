@@ -1,6 +1,9 @@
-# Environment variables (contains secrets!)
+# Environment variables
 .env
+.env.local
+.env.*.local
 
-# OS
+# Другие полезные исключения
+node_modules/
+*.log
 .DS_Store
-Thumbs.db
